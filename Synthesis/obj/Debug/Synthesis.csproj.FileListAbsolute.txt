@@ -1,0 +1,9 @@
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\bin\Debug\Class.cs
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe.config
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.pdb
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csprojAssemblyReference.cache
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe.config
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csproj.CoreCompileInputs.cache
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe
+C:\Users\Krzywyyy\Downloads\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.pdb
